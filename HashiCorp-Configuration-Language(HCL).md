@@ -29,8 +29,8 @@ touch local.tf
 Inside the ```local.tf``` copy and paste the following:
 
 ```
-resource "local_file" "First-Terraform-File" {
-  filename = "first_Terraform.txt"
+resource "local_file" "First_Terraform_File" {
+  filename = "/root/First_Terraform_Directory/first_Terraform.txt"
   content = "Congratulations on your first Terraform"
 }
 ```
@@ -57,6 +57,14 @@ terraform apply
 <br>
 
 It will then prompt and ask the user to confirm by typing ```yes```.
+<br>
+
+To verify, use the command:
+```
+cat /root/First_Terraform_Directory/first_Terraform.txt
+```
+<br>
+
 
 
 
