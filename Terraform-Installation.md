@@ -1,3 +1,5 @@
+![image](https://cdn-images-1.medium.com/max/1000/0*GBjuWDTkm88OUdc5.png)
+
 ## Terraform Installation
 
 In this demo, We will installing Terraform on a Ubuntu machine.
