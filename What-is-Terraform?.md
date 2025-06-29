@@ -1,3 +1,5 @@
+![image](https://cdn-images-1.medium.com/max/1000/0*GBjuWDTkm88OUdc5.png)
+
 ## Infrastructure as code(IaC)
 
 [Infrastructure as code (IaC)](https://aws.amazon.com/what-is/iac/) is the ability to provision and support your computing infrastructure using code instead of manual processes and settings.
